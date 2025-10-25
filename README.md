@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Marlena and I'm a front end and mobile developer, from Belgium.</p>
+<p align="left">My name is Marlena, and I'm a front-end and mobile developer who writes her own backend. Based in Belgium.</p>
 
 ###
 
