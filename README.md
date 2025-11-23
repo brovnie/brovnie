@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning: NextJS Angular and Python<br>🎯 Goals: Set my github on fire<br>🎲 Fun fact: In my free time I do bouldering</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning: NextJS Angular and Python<br>🎯 Goals: Learn new technologies and build new projects<br>🎲 Fun fact: In my free time I do bouldering</p>
 
 ###
 
